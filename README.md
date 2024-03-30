@@ -39,7 +39,7 @@ DBs I have worked with:
 - Total Issues: 1  
 - Contributed to (last year): 1  
 
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=AfonsoSantos44&show_icons=true&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AfonsoSantos44&show_icons=true&theme=transparent)
 
 #### Streaks  
 - Total Contributions: 508  
