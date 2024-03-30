@@ -1,16 +1,47 @@
-### Hi there 👋
+# Hi there! 👋 I'm Afonso Santos
 
-<!--
-**AfonsoSantos44/AfonsoSantos44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student at ISEL, Lisbon 🇵🇹  
+💻 Currently in my second year of the Software Engineering degree at ISEL  
+📧 How to reach me: afonso.santos4407@gmail.com  
 
-Here are some ideas to get you started:
+Connect with me:  
+[LinkedIn](#)  
+[Instagram](#)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages I have worked with:  
+- C  
+- Python 
+- JavaScript  
+- CSS  
+- HTML
+- Assembly
+- Kotlin 
+
+Tools and Frameworks I have worked with:  
+- Git  
+- Bootstrap
+- Node.js
+- Express
+- JQuery
+
+DBs I have worked with:  
+- PostGreSQL 
+- MongoDB  
+
+## Statistical Data:
+
+### Most Used Languages   
+
+### Afonso Santos' GitHub Stats  
+- Total Repositories: 1  
+- Total Commits (2024): 98  
+- Total Pull Requests: 5  
+- Total Issues: 1  
+- Contributed to (last year): 1  
+
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=AfonsoSantos44&show_icons=true&count_private=true)
+
+#### Streaks  
+- Total Contributions: 508  
+- Current Streak: 6  
+- Longest Streak: 20 (Mar 5, 2023 - Nov 20, 2023)
