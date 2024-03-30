@@ -6,7 +6,7 @@
 
 Connect with me:  
 [LinkedIn](#https://www.linkedin.com/in/afonso-santos-174a26271/)  
-[Instagram](#)  
+[Instagram](https://www.instagram.com/afonso_santos.44/)
 
 Languages I have worked with:  
 - C  
