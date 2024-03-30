@@ -33,7 +33,7 @@ DBs I have worked with:
 ## Statistical Data:
 
 ### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfonsoSantos44&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfonsoSantos44&layout=compact&langs_count=5&theme=dark)
 
 ### Afonso Santos' GitHub Stats  
 - Total Repositories: 1  
