@@ -5,7 +5,8 @@
 📧 How to reach me: afonso.santos4407@gmail.com  
 
 Connect with me:  
-[LinkedIn](#https://www.linkedin.com/in/afonso-santos-174a26271/)  
+[LinkedIn](https://www.linkedin.com/in/afonso-santos-174a26271/)
+
 [Instagram](https://www.instagram.com/afonso_santos.44/)
 
 Languages I have worked with:  
