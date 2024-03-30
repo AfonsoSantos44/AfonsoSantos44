@@ -5,9 +5,10 @@
 📧 How to reach me: afonso.santos4407@gmail.com  
 
 Connect with me:  
-[LinkedIn](https://www.linkedin.com/in/afonso-santos-174a26271/)
-
+[LinkedIn](https://www.linkedin.com/in/afonso-santos-174a26271/) &nbsp; &nbsp;  
 [Instagram](https://www.instagram.com/afonso_santos.44/)
+
+
 
 Languages I have worked with:  
 - C  
@@ -31,7 +32,8 @@ DBs I have worked with:
 
 ## Statistical Data:
 
-### Most Used Languages   
+### Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfonsoSantos44&size_weight=0.5&count_weight=0.5)
 
 ### Afonso Santos' GitHub Stats  
 - Total Repositories: 1  
