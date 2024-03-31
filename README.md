@@ -41,6 +41,4 @@ DBs I have worked with:
 [![Afonso Santos' GitHub stats](https://github-readme-stats.vercel.app/api?username=AfonsoSantos44&show_icons=true&theme=dark)](https://github.com/AfonsoSantos44/github-readme-stats)
 
 #### Streaks  
-- Total Contributions: 508  
-- Current Streak: 6  
-- Longest Streak: 20 (Mar 5, 2023 - Nov 20, 2023)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AfonsoSantos44&theme=dark)](https://git.io/streak-stats)
