@@ -2,19 +2,25 @@
 
 🎓 Student at ISEL, Lisbon 🇵🇹  
 💻 Currently in my second year of the Software Engineering degree at ISEL  
+🎮 Game developer enthusiast  
 📧 How to reach me: afonso.santos4407@gmail.com  
 
 Connect with me:  
 [LinkedIn](https://www.linkedin.com/in/afonso-santos-174a26271/) &nbsp; &nbsp;  
 [Instagram](https://www.instagram.com/afonso_santos.44/)
 
+Operating Systems Used:
+
+<div align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Windows_10_Logo.svg/200px-Windows_10_Logo.svg.png" alt="Windows" width="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1024px-Tux.svg.png" alt="Linux" width="30"> (Currently using Linux).
+</div>
+
+<br/> 
 
 
 Languages I have worked with:  
 <img src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" alt="C" width="40"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python" width="40"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="JavaScript" width="40"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" alt="CSS" width="40"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="HTML" width="40"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/assembly/assembly.png" alt="Assembly" width="40"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/kotlin/kotlin.png" alt="Kotlin" width="40">
-
-
-
 
 Tools and Frameworks I have worked with:
 
@@ -32,11 +38,6 @@ DBs I have worked with:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfonsoSantos44&layout=compact&langs_count=5&theme=dark)
 
 ### Afonso Santos' GitHub Stats  
-- Total Repositories: 1  
-- Total Commits (2024): 98  
-- Total Pull Requests: 5  
-- Total Issues: 1  
-- Contributed to (last year): 1  
 
 [![Afonso Santos' GitHub stats](https://github-readme-stats.vercel.app/api?username=AfonsoSantos44&show_icons=true&theme=dark)](https://github.com/AfonsoSantos44/github-readme-stats)
 
