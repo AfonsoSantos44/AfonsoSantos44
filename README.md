@@ -6,8 +6,8 @@
 📧 How to reach me: afonso.santos4407@gmail.com  
 
 Connect with me:  
-[LinkedIn](https://www.linkedin.com/in/afonso-santos-174a26271/) &nbsp; &nbsp;  
-[Instagram](https://www.instagram.com/afonso_santos.44/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afonso-santos-174a26271/) &nbsp; [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/afonso_santos.44/)
+
 
 Operating Systems Used:
 
