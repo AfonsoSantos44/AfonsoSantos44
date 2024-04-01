@@ -41,5 +41,5 @@ DBs I have worked with:
 
 [![Afonso Santos' GitHub stats](https://github-readme-stats.vercel.app/api?username=AfonsoSantos44&show_icons=true&theme=dark)](https://github.com/AfonsoSantos44/github-readme-stats)
 
-#### Streaks  
+### Streaks  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AfonsoSantos44&theme=dark)](https://git.io/streak-stats)
