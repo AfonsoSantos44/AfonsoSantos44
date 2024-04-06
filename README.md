@@ -18,9 +18,16 @@ Operating Systems Used:
 
 <br/> 
 
-
 Languages I have worked with:  
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" alt="C" width="40"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python" width="40"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="JavaScript" width="40"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" alt="CSS" width="40"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="HTML" width="40"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/assembly/assembly.png" alt="Assembly" width="40"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/kotlin/kotlin.png" alt="Kotlin" width="40">
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" alt="C" width="40">
+<img src="https://i.imgur.com/JvrQxDi.png" alt="C#" width="35">
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python" width="40">
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="JavaScript" width="40">
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" alt="CSS" width="40">
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="HTML" width="40">
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/assembly/assembly.png" alt="Assembly" width="40">
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/kotlin/kotlin.png" alt="Kotlin" width="40">
+
 
 Tools and Frameworks I have worked with:
 
