@@ -1,8 +1,8 @@
 # Hi there! 👋 I'm Afonso Santos
 
 🎓 Student at ISEL, Lisbon 🇵🇹  
-💻 Currently in my second year of the Software Engineering degree at ISEL  
-🎮 Game developer enthusiast  
+💻 Currently in my third year of the Software Engineering degree at ISEL  
+🎮 Game developer and mobile developer enthusiast   
 📧 How to reach me: afonso.santos4407@gmail.com  
 
 Connect with me:  
